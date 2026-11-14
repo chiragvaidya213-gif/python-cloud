@@ -10,7 +10,7 @@
 # for a in range(1,10):
 #     print(a*number)    #hamne yaha ek number naam se variable create kiya and comand diya ki jo bhi number de uska table de
 
-for i in range(1,11):
-        for j in range(1,11):
+for i in range(1,11):  #outerforloop
+        for j in range(1,11):  #inerforloop
             print(i*j,end =" ")
         print()    
