@@ -1,6 +1,1 @@
-#print("hello")
-fristname=("chirag")
-lastname=("vaidya")
-#print("fristname" ,fristname)
-#print("lastname",lastname)
-print (f"fristname{fristname} lastname{lastname}")
+print("hello")
