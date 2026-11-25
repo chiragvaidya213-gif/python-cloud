@@ -1,0 +1,5 @@
+a=(1,3,2,4,5,3,7,8,1,4,9,7,1,1,1)
+print(a.count(1))
+print(a.index(3))
+print(a.index(4,3))
+print(len(a))
